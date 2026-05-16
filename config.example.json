@@ -1,0 +1,14 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN_HERE",
+  "allowed_users": [],
+  "ai": {
+    "api_key": "YOUR_OPENAI_API_KEY",
+    "base_url": "https://api.openai.com/v1",
+    "model": "gpt-4o-free"
+  },
+  "ai_akademik": {
+    "api_key": "YOUR_SECOND_API_KEY",
+    "base_url": "https://aihubmix.com/v1",
+    "models": ["qwen3.6-plus-preview-free", "gpt-5.5-free"]
+  }
+}

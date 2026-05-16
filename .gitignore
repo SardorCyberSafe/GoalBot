@@ -1,0 +1,23 @@
+# Sensitive files (never commit!)
+bot.key
+config.json
+config_*.json
+
+# User data
+data/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
